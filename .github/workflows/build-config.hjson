@@ -1,0 +1,10 @@
+{
+    regions: {
+        test: {
+            address: "PLACEHOLDER:8001"
+            https: false
+            l10n: "index-europe"
+        }
+    }
+    defaultRegion: "test"
+}
